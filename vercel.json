@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "framework": null,
   "functions": {
     "api/index.php": { "runtime": "vercel-php@0.6.0" }
   },
@@ -10,7 +9,5 @@
       "dest": "/api/index.php"
     }
   ],
-  "installCommand": "composer install",
-  "buildCommand": "echo 'No build needed'",
-  "outputDirectory": "."
+  "outputDirectory": "public"
 }
