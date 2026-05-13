@@ -253,7 +253,7 @@
                     <div class="flex items-center gap-3 text-sm text-slate-600"><span class="w-2 h-2 bg-emerald-500 rounded-full"></span> Fitur Deteksi Wajah Real-time</div>
                     <div class="flex items-center gap-3 text-sm text-slate-600"><span class="w-2 h-2 bg-emerald-500 rounded-full"></span> Integrasi API Emotion Recognition</div>
                 </div>
-                <a href="https://bondscan.com" target="_blank" class="inline-block bg-emerald-600 text-white px-8 py-3 rounded-xl font-bold hover:bg-slate-900 transition-all">Buka Live Website ↗</a>
+                <a href="https://aunillah17.github.io/BondScan/BondScan.html" target="_blank" class="inline-block bg-emerald-600 text-white px-8 py-3 rounded-xl font-bold hover:bg-slate-900 transition-all">Buka Live Website ↗</a>
             </div>
         </div>
     </div>
@@ -271,7 +271,7 @@
                     <h4 class="text-sm font-bold text-emerald-800 mb-2 uppercase">Database Highlight:</h4>
                     <p class="text-emerald-700 text-sm italic">"Menggunakan relasi One-to-Many antara kategori kopi dan menu produk menggunakan Laravel Eloquent."</p>
                 </div>
-                <a href="#" class="inline-block bg-slate-900 text-white px-8 py-3 rounded-xl font-bold hover:bg-emerald-600 transition-all">Kunjungi Web ↗</a>
+                <a href="https://aunillah17.github.io/Virama-Coffee/Virama.html" class="inline-block bg-slate-900 text-white px-8 py-3 rounded-xl font-bold hover:bg-emerald-600 transition-all">Kunjungi Web ↗</a>
             </div>
         </div>
     </div>
