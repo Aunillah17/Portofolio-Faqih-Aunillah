@@ -72,7 +72,7 @@
 
                 <div class="lg:col-span-8 text-slate-500 text-lg leading-relaxed space-y-6">
                     <p>
-                        Halo! Saya <span class="text-slate-900 font-medium">Faqih</span>, siswa Rekayasa Perangkat Lunak yang berdomisili di Bandung. Saya memiliki ketertarikan mendalam pada alur kerja sistem di balik layar (*backend*). 
+                        Halo! Saya <span class="text-slate-900 font-medium">Faqih</span>, siswa Rekayasa Perangkat Lunak yang berdomisili di Bandung. Saya memiliki ketertarikan mendalam pada alur kerja sistem di balik layar (backend). 
                     </p>
                     <p>
                         Minat terbesar saya saat ini ada pada <span class="text-slate-900 font-medium text-emerald-600 italic">Database Management</span>. Walaupun masih di tahap awal, saya berkomitmen untuk terus mengeksplorasi efisiensi data menggunakan MySQL dan Laravel guna menciptakan aplikasi yang andal.
@@ -115,7 +115,7 @@
                     <h3 class="text-4xl font-extrabold text-slate-900 mb-4">Proyek yang Pernah Saya Bangun</h3>
                     <p class="text-slate-500 text-lg">Kombinasi antara logika pemrograman, manajemen database, dan narasi kreatif.</p>
                 </div>
-                <a href="https://github.com/username-kamu" target="_blank" class="text-slate-900 font-bold border-b-2 border-emerald-500 pb-1 hover:text-emerald-600 transition-all">
+                <a href="https://github.com/Aunillah17" target="_blank" class="text-slate-900 font-bold border-b-2 border-emerald-500 pb-1 hover:text-emerald-600 transition-all">
                     Lihat GitHub →
                 </a>
             </div>
@@ -244,7 +244,7 @@
     <div id="modal-bondscan">
         <div class="grid lg:grid-cols-2">
             <div class="p-8 lg:p-12">
-                <img src="{{ asset('img/bondscan-full.png') }}" class="w-full rounded-2xl shadow-lg border border-slate-100">
+                <img src="{{ asset('img/BondScan.png') }}" class="w-full rounded-2xl shadow-lg border border-slate-100">
             </div>
             <div class="p-8 lg:p-12 lg:pl-0">
                 <h2 class="text-3xl font-bold text-slate-900 mb-4">BondScan</h2>
@@ -261,7 +261,7 @@
     <div id="modal-virama">
         <div class="grid lg:grid-cols-2">
             <div class="p-8 lg:p-12 text-center">
-                <img src="{{ asset('img/virama-full.png') }}" class="w-full rounded-2xl shadow-lg mb-4">
+                <img src="{{ asset('img/ViramaCoffee.png') }}" class="w-full rounded-2xl shadow-lg mb-4">
                 <p class="text-xs text-slate-400 italic font-mono">Tampilan Katalog Menu & Database Relasional</p>
             </div>
             <div class="p-8 lg:p-12 lg:pl-0">
@@ -283,7 +283,7 @@
                 <p class="text-slate-500 mb-8 text-center">Dalam proyek game 3D ini, peran saya adalah sebagai <strong>Storywriter</strong>. Saya menyusun narasi, dialog, dan perkembangan karakter untuk menciptakan suasana yang mendalam bagi pemain.</p>
                 
                 <div class="aspect-video bg-slate-100 rounded-3xl overflow-hidden shadow-inner mb-8 border border-slate-200">
-                    <iframe class="w-full h-full" src="https://www.youtube.com/embed/VIDEO_ID_KAMU" frameborder="0" allowfullscreen></iframe>
+                    <iframe class="w-full h-full" src="https://www.youtube.com/embed/qHC9iP6wPoE" frameborder="0" allowfullscreen></iframe>
                 </div>
 
                 <div class="grid md:grid-cols-2 gap-6 text-sm text-slate-600 italic">
